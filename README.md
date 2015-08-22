@@ -1,6 +1,8 @@
-# Secret Puppies
+# Gatos Abiertos
 
-Woof! This is a curated collection of adorable puppies on the internet being adorable. It is actually totally open but we're calling it secretpuppies because irony.
+Este es un trabajo forkeado de SecretPuppies. Una colección abierta de perros siendo adorables en el internet.
+
+Los gatos abiertos son gatos disponibles en un lugar concentrado, de fácil acceso, con una licencia que permita disfrutarlos sin mayor restricción que quizá decir de dónde vienen, actualizados constantemente (por eso queremos que la comunidad contribuya) y pueden ser un recurso educativo para hablar de Datos Abiertos. 
 
 ## Thumbs Up
 If you're also thinking **YES** like @melodykramer, you too can leave a :thumbsup: on this issue to express your general approval of this project: [https://github.com/heyitsolivia/secretpuppies/issues/12](https://github.com/heyitsolivia/secretpuppies/issues/12)
