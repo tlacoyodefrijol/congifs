@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $.getJSON("puppies.json", playPuppies)
+    $.getJSON("kittens.json", playPuppies)
 });
 
 function playPuppies(puppies) {
@@ -16,7 +16,7 @@ function playPuppies(puppies) {
     }
 
     function makeURL(newPup) {
-        return 'https://i.imgur.com/' + newPup + '.mp4';
+        return 'https://media.giphy.com/media/' + newPup + '/giphy.mp4';
     }
 
     function newPuppy() {
