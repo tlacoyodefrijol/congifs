@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $.getJSON("puppies.json", playPuppies)
+    $.getJSON("kittens.json", playPuppies)
 });
 
 function playPuppies(puppies) {
