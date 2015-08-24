@@ -4,12 +4,12 @@ Este es un trabajo forkeado de SecretPuppies. Una colección abierta de perros s
 
 Los gatos abiertos son gatos disponibles en un lugar concentrado, de fácil acceso, con una licencia que permita disfrutarlos sin mayor restricción que quizá decir de dónde vienen, actualizados constantemente (por eso queremos que la comunidad contribuya) y pueden ser un recurso educativo para hablar de Datos Abiertos. 
 
+##¡Agrega un gato!
+
+Si encontraste un gato y consideras que debería de estar disponibles para todos ¡sólo sigue [estos sencillos pasos](https://github.com/tlacoyodefrijol/gatosabiertos/blob/master/CONTRIBUTE.md)! 
+
 ## Thumbs Up
 If you're also thinking **YES** like @melodykramer, you too can leave a :thumbsup: on this issue to express your general approval of this project: [https://github.com/heyitsolivia/secretpuppies/issues/12](https://github.com/heyitsolivia/secretpuppies/issues/12)
-
-## Add a puppy!
-If you found a puppy gif and you think it needs to live here (because where else), just [follow these steps](https://github.com/heyitsolivia/secretpuppies/blob/master/CONTRIBUTE.md)!
-
 
 ## Install
 1. Clone this project.
